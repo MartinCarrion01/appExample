@@ -1,3 +1,3 @@
-const funcion = () => console.log("funcion activada");
+const funcion = () => console.log("function has been activated");
 
 funcion();
